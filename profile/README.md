@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Welcome to the GitHub Organization for the Anthrax Path of Titans server
 <!--
 
 **Here are some ideas to get you started:**
